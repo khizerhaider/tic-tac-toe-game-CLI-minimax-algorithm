@@ -15,7 +15,7 @@ Welcome to the Tic-Tac-Toe game! This is a simple and fun command-line game wher
 
 To get started, you'll need to have Python 3.x installed on your computer. If you don’t have it yet, you can download it from python.org.
 1.Clone the Repository:
-git clone <repository-url>
+git clone "https://github.com/khizerhaider/tic-tac-toe-game-minimax-algorithm.git"
 cd tic-tac-toe
 2.Run the Game:
 python3 tic_tac_toe.py
